@@ -6,6 +6,6 @@ This is for installing the node modules to the project.
 
 ## Run this project use command,
 
-### `npm start`
+`npm start`
 
 
