@@ -12,7 +12,7 @@ This is for installing the node modules to the project.
 
 [trip.webm](https://github.com/user-attachments/assets/0b75710e-6a34-49da-af59-76d4109201ed)
 
-##On Desktop
+## On Desktop
 
 ![Screenshot at 2024-12-26 08-12-46](https://github.com/user-attachments/assets/fb8b64c7-2c63-4e55-9fd1-0448421a70a4)
 
