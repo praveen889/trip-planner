@@ -31,7 +31,7 @@ Data is written in JSON format, already included in this project.
 
 ### Data Collection
 
-Use existing website and also the use of `AI` and for the image, i use `Unsplash`.
+Use existing website and also the use of `AI`  for the data collection and for the image, i use `Unsplash`.
 
 ### Future Improvement
 
