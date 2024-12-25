@@ -24,4 +24,14 @@ This is for installing the node modules to the project.
 
 <img src="https://github.com/user-attachments/assets/db29bce8-8bdb-4afe-983c-fd1252b4c3f7" width="200" height="420"> <img src="https://github.com/user-attachments/assets/aa385deb-48e7-474e-a552-4eb9d01fb97b" width="200" height="420"> <img src="https://github.com/user-attachments/assets/3433c90e-602a-4270-aec4-2d5733c058ba" width="200" height="420">
 
+### During Developement of this website.
 
+For the Gradient Color i use `webgradients.com`, it holds a lot of gradient colour collections.
+
+### Data Collection
+
+Use existing website and also the use of `AI` and for the image, i use `Unsplash`.
+
+### Future Improvement
+
+A detailed overview about each location, like `accomodation`, `overall expanse`, `hotel recommendation` and `best way to travel`.
