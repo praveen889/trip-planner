@@ -27,6 +27,7 @@ This is for installing the node modules to the project.
 ### During Developement of this website.
 
 For the Gradient Color i use `webgradients.com`, it holds a lot of gradient colour collections.
+Data is written in JSON format, already included in this project.
 
 ### Data Collection
 
