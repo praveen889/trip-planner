@@ -1,0 +1,988 @@
+{
+    "mountain":[
+        {
+            "image": "/images/mountain/hampi.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Hampi",
+            "country" : "India",
+            "activity": "Explore ancient ruins and hike through boulder-strewn landscapes.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/kasol.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Kasol",
+            "country" : "India",
+            "activity": "Trek through lush green valleys and camp under the stars.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/rishikesh.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Rishikesh",
+            "country" : "India",
+            "activity": "Learn to whitewater raft, bungee jump, or go cliff jumping.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/triundtrek.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Triund Trek",
+            "country" : "India",
+            "activity": "Hike to a picturesque campsite with stunning views of the Dhauladhar Range.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/manali.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Manali",
+            "country" : "India",
+            "activity": "Go paragliding, skiing, or trekking in the Himalayas.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/pokhra.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Pokhara",
+            "country" : "Nepal",
+            "activity": "Hike to the Annapurna Base Camp or go paragliding over the city.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Kathmandu.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Kathmandu",
+            "country" : "Nepal",
+            "activity": "Explore the vibrant city and visit ancient temples.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/nagarkot.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Nagarkot",
+            "country" : "Nepal",
+            "activity": "Enjoy breathtaking views of the Himalayas from this hilltop village.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/haavalley.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Haa Valley",
+            "country" : "Bhutan",
+            "activity": "Trek through remote villages and experience Bhutan's unique culture.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/thimphu.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Thimphu",
+            "country" : "Bhutan",
+            "activity": "Explore the capital city and visit the iconic Buddha Dordenma statue.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/mountbromo.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Mount Bromo",
+            "country" : "Indonesia",
+            "activity": "Hike to the volcano's crater and witness a stunning sunrise.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/mountkilimanjaro.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Mount Kilimanjaro",
+            "country" : "Tanzania",
+            "activity": "Climb Africa's highest mountain on a budget with proper planning.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/mountrinjani.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Mount Rinjani",
+            "country" : "Indonesia",
+            "activity": "Trek to the summit of this active volcano and swim in its crater lake.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/manali2.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Manali",
+            "country" : "India",
+            "activity": "Go paragliding, skiing, or trekking in the Himalayas.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Leh.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Leh",
+            "country" : "India",
+            "activity": "Explore the high-altitude desert landscape and visit ancient monasteries.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Nainital.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Nainital",
+            "country" : "India",
+            "activity": "Hike to the Naina Peak or take a boat ride on the Naini Lake.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Darjeeling.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Darjeeling",
+            "country" : "India",
+            "activity": "Ride the Darjeeling Himalayan Railway and visit tea plantations.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Coorg.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Coorg",
+            "country" : "India",
+            "activity": "Go trekking, camping, or whitewater rafting in the Western Ghats.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Pokhara~2.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Pokhara",
+            "country" : "Nepal",
+            "activity": "Hike to the Annapurna Base Camp or go paragliding over the city.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Kathmandu.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Kathmandu",
+            "country" : "Nepal",
+            "activity": "Explore the vibrant city and visit ancient temples.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/ChitwanNationalPark.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Chitwan National Park",
+            "country" : "Nepal",
+            "activity": "Go on a jungle safari and see rhinos, elephants, and tigers.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/haavalley.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Haa Valley",
+            "country" : "Bhutan",
+            "activity": "Trek through remote villages and experience Bhutan's unique culture.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/thimphu.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Thimphu",
+            "country" : "Bhutan",
+            "activity": "Explore the capital city and visit the iconic Buddha Dordenma statue.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/mountbromo.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Mount Bromo",
+            "country" : "Indonesia",
+            "activity": "Hike to the volcano's crater and witness a stunning sunrise.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/mountkilimanjaro.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Mount Kilimanjaro",
+            "country" : "Tanzania",
+            "activity": "Climb Africa's highest mountain on a guided trek.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/mountrinjani.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Mount Rinjani",
+            "country" : "Indonesia",
+            "activity": "Trek to the summit of this active volcano and swim in its crater lake.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Zermatt.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Zermatt",
+            "country" : "Switzerland",
+            "activity": "Ski on the Matterhorn, hike in the Swiss Alps, and relax in a luxurious spa.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/StMoritz.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "St. Moritz",
+            "country" : "Switzerland",
+            "activity": "Enjoy world-class skiing, snowboarding, and other winter sports.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Interlaken.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Interlaken",
+            "country" : "Switzerland",
+            "activity": "Go paragliding, bungee jumping, or whitewater rafting in the Bernese Oberland.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Innsbruck.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Innsbruck",
+            "country" : "Austria",
+            "activity": "Explore the charming city and go skiing in the surrounding mountains.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Salzburg.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Salzburg",
+            "country" : "Austria",
+            "activity": "Visit the birthplace of Mozart and go hiking in the Austrian Alps.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Hallstatt.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Hallstatt",
+            "country" : "Austria",
+            "activity": "Hike to the Five Fingers viewing platform and enjoy stunning views of the lake.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/chamonix2.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Chamonix",
+            "country" : "France",
+            "activity": "Hike to the top of Mont Blanc, go skiing in the French Alps, and visit the charming town.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Courchevel.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Courchevel",
+            "country" : "France",
+            "activity": "Enjoy world-class skiing and snowboarding in the Three Valleys ski area.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Annecy.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Annecy",
+            "country" : "France",
+            "activity": "Explore the beautiful lake and go hiking in the surrounding mountains.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Cortina.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Cortina d'Ampezzo",
+            "country" : "Italy",
+            "activity": "Go skiing in the Dolomites and enjoy the charming town.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Courmayeur.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Courmayeur",
+            "country" : "Italy",
+            "activity": "Hike to the top of Mont Blanc and enjoy the stunning views.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Sardinia.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Sardinia",
+            "country" : "Italy",
+            "activity": "Go hiking, biking, and climbing in the Gennargentu mountains.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Aspen.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Aspen",
+            "country" : "Colorado",
+            "activity": "Go skiing, snowboarding, and hiking in the Rocky Mountains.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Whistler.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Whistler",
+            "country" : "British Columbia",
+            "activity": "Enjoy world-class skiing and snowboarding in the Canadian Rockies.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/banff.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Banff National Park",
+            "country" : "Alberta",
+            "activity": "Go hiking, camping, and wildlife viewing in the Canadian Rockies.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/kasol~2.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "Kasol, Himachal Pradesh",
+            "country" : "India",
+            "activity": "Known for its laid-back vibe, Kasol offers stunning mountain views, cafes, and opportunities for short treks.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/mcleodganj~3.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "McLeod Ganj, Himachal Pradesh",
+            "country" : "India",
+            "activity": "Home to the Dalai Lama, McLeod Ganj offers a serene atmosphere, beautiful scenery, and Tibetan culture.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/coorg~2.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "Coorg, Karnataka",
+            "country" : "India",
+            "activity": "Lush green hills, coffee plantations, and waterfalls make Coorg a perfect place for a relaxing getaway.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Yercaud~2.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "Yercaud, Tamil Nadu",
+            "country" : "India",
+            "activity": "This hill station boasts scenic viewpoints, lakes, and a botanical garden, offering a peaceful escape.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Munnar~2.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "Munnar, Kerala",
+            "country" : "India",
+            "activity": "Tea plantations, misty mountains, and cascading waterfalls create a tranquil atmosphere in Munnar.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Mountabu~2.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "Mount Abu, Rajasthan",
+            "country" : "India",
+            "activity": "India's only hill station in Rajasthan, Mount Abu offers temples, lakes, and a peaceful atmosphere.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/pokhra.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "Pokhara",
+            "country" : "Nepal",
+            "activity": "While known for adventure activities, Pokhara also offers serene lakes, monasteries, and opportunities for meditation.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/hampi.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "nagarkot",
+            "country" : "Nepal",
+            "activity": "Enjoy breathtaking views of the Himalayas from this hilltop village, perfect for a peaceful retreat.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Nainital.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Nainital, Uttarakhand",
+            "country" : "India",
+            "activity": "This picturesque hill station offers serene lakes, charming colonial architecture, and opportunities for leisurely walks and boat rides.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Munnar~2.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Munnar, Kerala",
+            "country" : "India",
+            "activity": "Lush green tea plantations, misty mountains, and cascading waterfalls create a tranquil atmosphere in Munnar.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Darjeeling.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Darjeeling, West Bengal",
+            "country" : "India",
+            "activity": "Ride the Darjeeling Himalayan Railway, visit tea gardens, and enjoy stunning views of the Kanchenjunga.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/coorg~2.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Coorg, Karnataka",
+            "country" : "India",
+            "activity": "Lush green hills, coffee plantations, and waterfalls make Coorg a perfect place for a relaxing getaway.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/mcleodganj~3.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "McLeod Ganj, Himachal Pradesh",
+            "country" : "India",
+            "activity": "Home to the Dalai Lama, McLeod Ganj offers a serene atmosphere, beautiful scenery, and Tibetan culture.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Mountabu~2.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Mount Abu, Rajasthan",
+            "country" : "India",
+            "activity": "India's only hill station in Rajasthan, Mount Abu offers temples, lakes, and a peaceful atmosphere.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Pokhara~2.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Pokhara",
+            "country" : "Nepal",
+            "activity": "While known for adventure activities, Pokhara also offers serene lakes, monasteries, and opportunities for meditation.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/nagarkot.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Nagarkot",
+            "country" : "Nepal",
+            "activity": "Enjoy breathtaking views of the Himalayas from this hilltop village, perfect for a peaceful retreat.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Shimla~2.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "The Oberoi Cecil, Shimla",
+            "country" : "India",
+            "activity": "This iconic hotel offers stunning views of the Himalayas and luxurious amenities.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Taj Madikeri Resort & Spa, Coorg~2.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "Taj Madikeri Resort & Spa, Coorg",
+            "country" : "India",
+            "activity": "This luxurious resort offers a tranquil escape amidst the lush green hills of Coorg.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/The Leela Palace Kempinski Kovalam, Kerala~2.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "The Leela Palace Kempinski Kovalam, Kerala",
+            "country" : "India",
+            "activity": "This luxurious resort offers stunning views of the Arabian Sea and the Western Ghats.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/Aman-i-Khas, Ranthambore~2.png",
+            "type": "relax",
+            "budget": "high",
+            "location" : "Aman-i-Khas, Ranthambore",
+            "country" : "India",
+            "activity": "This luxurious tented camp offers a unique experience in the heart of Ranthambore National Park.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/to.png",
+            "type": "relax",
+            "budget": "high",
+            "location" : "The Oberoi Udaivilas, Udaipur",
+            "country" : "India",
+            "activity": "This luxurious resort offers stunning views of Lake Pichola and the Aravalli Mountains.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/The Lodge at Vail~2.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "The Lodge at Vail",
+            "country" : "Colorado",
+            "activity": "This luxurious ski resort offers stunning views of the Rocky Mountains and world-class amenities.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/tr.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "The Ritz-Carlton, Bachelor Gulch",
+            "country" : "Colorado",
+            "activity": "This luxurious ski resort offers stunning views of the Vail Valley and world-class amenities.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/ts.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "The St. Regis Aspen Resort",
+            "country" : "Colorado",
+            "activity": "This luxurious ski resort offers stunning views of the Aspen Mountain and world-class amenities.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/fs.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "Four Seasons Hotel Megève",
+            "country" : "France",
+            "activity": "This luxurious ski resort offers stunning views of the Mont Blanc and world-class amenities.",
+            "description" : ""
+        },
+        {
+            "image": "/images/mountain/tc.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "The Chedi Andermatt",
+            "country" : "Switzerland",
+            "activity": "This luxurious ski resort offers stunning views of the Swiss Alps and world-class amenities.",
+            "description" : ""
+        }
+    ],
+    "beach":[
+        {
+            "image": "/images/beach/Gokarna~2.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Gokarna, Karnataka",
+            "country" : "India",
+            "activity": "Explore pristine beaches, go cliff jumping, and trek to hidden coves.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Varkala~2.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Varkala, Kerala",
+            "country" : "India",
+            "activity": "Relax on the clifftop beaches, go cliff diving, and try stand-up paddleboarding.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Pondicherry~2.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Pondicherry",
+            "country" : "India",
+            "activity": "Learn to surf, go kayaking, or explore the French colonial architecture.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Goa~2.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Goa",
+            "country" : "India",
+            "activity": "While known for its nightlife, Goa also offers budget-friendly options for water sports like windsurfing and parasailing.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Koh Lanta~2.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Koh Lanta",
+            "country" : "Thailand",
+            "activity": "Explore the island by bicycle, go snorkeling or diving, and relax on the beautiful beaches.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Koh Chang~2.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Koh Chang",
+            "country" : "Thailand",
+            "activity": "Hike through the jungle, go kayaking or snorkeling, and enjoy the laid-back atmosphere.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Krabi~2.jpg",
+            "type": "adventure",
+            "budget": "low",
+            "location" : "Krabi",
+            "country" : "Thailand",
+            "activity": "Rock climb, go kayaking, or explore the stunning Phi Phi Islands on a budget.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Goa~2.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Goa",
+            "country" : "India",
+            "activity": "While known for its nightlife, Goa also offers water sports like windsurfing, parasailing, and jet skiing. You can find mid-range resorts and enjoy delicious seafood.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Andaman and Nicobar Islands~2.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Andaman and Nicobar Islands",
+            "country" : "India",
+            "activity": "Explore pristine beaches, go scuba diving or snorkeling, and trek through the dense forests.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Pondicherry1~2.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Pondicherry",
+            "country" : "India",
+            "activity": "Learn to surf, go kayaking, or explore the French colonial architecture. You can find comfortable accommodations and enjoy delicious French-Indian cuisine.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Varkala~2.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Varkala, Kerala",
+            "country" : "India",
+            "activity": "Relax on the clifftop beaches, go cliff diving, and try stand-up paddleboarding. You can find mid-range resorts and enjoy Ayurvedic treatments.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Krabi~2.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Krabi",
+            "country" : "Thailand",
+            "activity": "Rock climb, go kayaking, or explore the stunning Phi Phi Islands. You can find mid-range resorts and enjoy delicious Thai food.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Phuket~2.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Phuket",
+            "country" : "Thailand",
+            "activity": "While known for its luxury resorts, Phuket also offers budget-friendly options for water sports like snorkeling and diving. You can find mid-range hotels and enjoy delicious seafood.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Koh Lanta~2.jpg",
+            "type": "adventure",
+            "budget": "medium",
+            "location" : "Koh Lanta",
+            "country" : "Thailand",
+            "activity": "Explore the island by bicycle, go snorkeling or diving, and relax on the beautiful beaches. You can find mid-range bungalows and enjoy delicious Thai food.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Overwater bungalows~2.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Overwater bungalows",
+            "country" : "Maldives",
+            "activity": "Stay in a luxurious overwater bungalow with private plunge pools and stunning ocean views.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/World-class diving and snorkeling~2.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "World-class diving and snorkeling",
+            "country" : "Maldives",
+            "activity": "Explore vibrant coral reefs and encounter diverse marine life.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Private island getaways~2.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Private island getaways",
+            "country" : "Maldives",
+            "activity": "Indulge in exclusive island experiences with personalized service and luxurious amenities.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Bora Bora~2.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Bora Bora",
+            "country" : "French Polynesia ",
+            "activity": "Enjoy world-class diving, snorkeling, and water sports in this iconic overwater bungalow destination.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Tahiti~2.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Tahiti",
+            "country" : "French Polynesia ",
+            "activity": "Hike through lush rainforests, go surfing, and explore the volcanic landscape.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Moorea~2.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Moorea",
+            "country" : "French Polynesia ",
+            "activity": "Relax on pristine beaches, go kayaking or paddleboarding, and enjoy stunning mountain views.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Exuma Cays~2.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Exuma Cays",
+            "country" : "Bahamas",
+            "activity": "Explore the breathtaking Exuma Cays, go swimming with pigs, and enjoy luxurious private island escapes.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Nassau~2.jpg",
+            "type": "adventure",
+            "budget": "high",
+            "location" : "Nassau",
+            "country" : "Bahamas",
+            "activity": "Experience the vibrant nightlife, go deep-sea fishing, and indulge in luxurious spa treatments.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Gokarna~2.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "Gokarna, Karnataka",
+            "country" : "India",
+            "activity": "Known for its laid-back vibe, Gokarna offers pristine beaches, budget-friendly guesthouses, and delicious South Indian cuisine. Relax on the beach, explore hidden coves, and enjoy the tranquility.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Varkala~2.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "Varkala, Kerala",
+            "country" : "India",
+            "activity": "This clifftop town boasts stunning views, affordable homestays, and Ayurvedic massage centers. Enjoy the sunset, take a dip in the Arabian Sea, and indulge in a relaxing massage.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Pondicherry~2.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "Pondicherry",
+            "country" : "India",
+            "activity": "Explore the French colonial architecture, enjoy delicious French-Indian cuisine, and relax on the serene beaches. You can find budget-friendly guesthouses and enjoy a leisurely pace of life.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Puri~2.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "Puri, Odisha",
+            "country" : "India",
+            "activity": "This holy city offers a unique blend of spirituality and beachside relaxation. Visit the Jagannath Temple, enjoy the sunrise on the beach, and indulge in delicious seafood.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Diu~2.jpg",
+            "type": "relax",
+            "budget": "low",
+            "location" : "Diu",
+            "country" : "India",
+            "activity": "This small island offers beautiful beaches, Portuguese-influenced architecture, and a relaxed atmosphere. Enjoy the laid-back vibe, explore the fort, and indulge in fresh seafood.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Goa~2.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Goa (South Goa)",
+            "country" : "India",
+            "activity": "While known for its party scene, South Goa offers quieter beaches like Agonda and Palolem. You can find comfortable mid-range resorts, enjoy delicious seafood, and indulge in Ayurvedic spa treatments.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Andaman and Nicobar Islands~2.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Andaman and Nicobar Islands (Havelock Island)",
+            "country" : "India",
+            "activity": "Relax on pristine beaches like Radha Nagar Beach, go snorkeling or diving, and enjoy the laid-back island atmosphere. You can find comfortable resorts and enjoy delicious seafood.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Kerala Backwaters~2.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Kerala Backwaters",
+            "country" : "India",
+            "activity": "Experience the serene backwaters of Kerala on a houseboat cruise, enjoy Ayurvedic treatments, and relax on the beaches of Kovalam or Varkala. You can find comfortable resorts and enjoy delicious Kerala cuisine.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Phuket~2.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Phuket",
+            "country" : "Thailand",
+            "activity": "Explore the island, relax on beautiful beaches like Patong and Kata, and indulge in Thai massages. You can find mid-range resorts and enjoy delicious Thai food.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Bali~3.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Bali",
+            "country" : "Indonesia",
+            "activity": "Relax on the beaches of Canggu or Seminyak, enjoy rice paddy views, and indulge in traditional Balinese massages. You can find comfortable villas and enjoy delicious Indonesian food.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Langkawi~2.jpg",
+            "type": "relax",
+            "budget": "medium",
+            "location" : "Langkawi",
+            "country" : "Malaysia",
+            "activity": "Explore the island's lush rainforests, relax on the beaches of Pantai Cenang or Datai Bay, and enjoy the duty-free shopping. You can find comfortable resorts and enjoy delicious Malaysian cuisine.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Overwater bungalows1~2.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "Overwater bungalows",
+            "country" : "Maldives",
+            "activity": "Stay in a luxurious overwater bungalow with private plunge pools and stunning ocean views.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/World-class spas~2.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "World-class spas",
+            "country" : "Maldives",
+            "activity": "Indulge in rejuvenating spa treatments with oceanfront views.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Private island getaways~2.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "Private island getaways",
+            "country" : "Maldives",
+            "activity": "Enjoy exclusive island experiences with personalized service and luxurious amenities.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Bora Bora~2.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "Bora Bora",
+            "country" : "French Polynesia",
+            "activity": "Relax in an overwater bungalow with panoramic views of the turquoise lagoon.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Tahiti~2.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "Tahiti",
+            "country" : "French Polynesia",
+            "activity": "Indulge in luxurious spa treatments and enjoy the island's natural beauty.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Moorea~2.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "Moorea",
+            "country" : "French Polynesia",
+            "activity": "Explore the island by private boat and enjoy a romantic dinner on a secluded beach.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Luxury villas~2.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "Luxury villas",
+            "country" : "St. Barths",
+            "activity": "Rent a private villa with stunning ocean views and enjoy the island's exclusive atmosphere.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/World-class dining~2.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "World-class dining",
+            "country" : "St. Barths",
+            "activity": "Savor gourmet cuisine at Michelin-starred restaurants.",
+            "description" : ""
+        },
+        {
+            "image": "/images/beach/Bali~3.jpg",
+            "type": "relax",
+            "budget": "high",
+            "location" : "High-end shopping",
+            "country" : "St. Barths",
+            "activity": "Indulge in luxury shopping at designer boutiques.",
+            "description" : ""
+        }
+    ]
+}
+
