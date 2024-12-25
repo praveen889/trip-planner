@@ -20,6 +20,6 @@ This is for installing the node modules to the project.
 
 ![Screenshot at 2024-12-26 08-13-00](https://github.com/user-attachments/assets/36b945b1-e640-402b-a925-cc9b8cbba2cd)
 
-![Screen Shot 2024-12-26 at 08 24 55(1)](https://github.com/user-attachments/assets/db29bce8-8bdb-4afe-983c-fd1252b4c3f7)![Screen Shot 2024-12-26 at 08 26 09(1)](https://github.com/user-attachments/assets/aa385deb-48e7-474e-a552-4eb9d01fb97b)![Screen Shot 2024-12-26 at 08 26 56(1)](https://github.com/user-attachments/assets/3433c90e-602a-4270-aec4-2d5733c058ba)
+![Screen Shot 2024-12-26 at 08 24 55(1)](https://github.com/user-attachments/assets/db29bce8-8bdb-4afe-983c-fd1252b4c3f7 | width=33)![Screen Shot 2024-12-26 at 08 26 09(1)](https://github.com/user-attachments/assets/aa385deb-48e7-474e-a552-4eb9d01fb97b | width=33)![Screen Shot 2024-12-26 at 08 26 56(1)](https://github.com/user-attachments/assets/3433c90e-602a-4270-aec4-2d5733c058ba | width=33)
 
 
