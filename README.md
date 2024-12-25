@@ -12,7 +12,7 @@ This is for installing the node modules to the project.
 
 [trip.webm](https://github.com/user-attachments/assets/0b75710e-6a34-49da-af59-76d4109201ed)
 
-
+###On Desktop
 
 ![Screenshot at 2024-12-26 08-12-46](https://github.com/user-attachments/assets/fb8b64c7-2c63-4e55-9fd1-0448421a70a4)
 
@@ -20,8 +20,8 @@ This is for installing the node modules to the project.
 
 ![Screenshot at 2024-12-26 08-13-00](https://github.com/user-attachments/assets/36b945b1-e640-402b-a925-cc9b8cbba2cd)
 
-![Screen Shot 2024-12-26 at 08 24 55(1)](https://github.com/user-attachments/assets/db29bce8-8bdb-4afe-983c-fd1252b4c3f7 | width=33)![Screen Shot 2024-12-26 at 08 26 09(1)](https://github.com/user-attachments/assets/aa385deb-48e7-474e-a552-4eb9d01fb97b | width=33)![Screen Shot 2024-12-26 at 08 26 56(1)](https://github.com/user-attachments/assets/3433c90e-602a-4270-aec4-2d5733c058ba | width=33)
+###On Mobile Device
 
-<img src="https://github.com/user-attachments/assets/db29bce8-8bdb-4afe-983c-fd1252b4c3f7" width="200" height="420"> <img src="https://github.com/user-attachments/assets/aa385deb-48e7-474e-a552-4eb9d01fb97b" width="200" height="420">
+<img src="https://github.com/user-attachments/assets/db29bce8-8bdb-4afe-983c-fd1252b4c3f7" width="200" height="420"> <img src="https://github.com/user-attachments/assets/aa385deb-48e7-474e-a552-4eb9d01fb97b" width="200" height="420"> <img src="https://github.com/user-attachments/assets/3433c90e-602a-4270-aec4-2d5733c058ba" width="200" height="420">
 
 
