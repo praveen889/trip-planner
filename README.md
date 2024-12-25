@@ -24,6 +24,10 @@ This is for installing the node modules to the project.
 
 <img src="https://github.com/user-attachments/assets/db29bce8-8bdb-4afe-983c-fd1252b4c3f7" width="200" height="420"> <img src="https://github.com/user-attachments/assets/aa385deb-48e7-474e-a552-4eb9d01fb97b" width="200" height="420"> <img src="https://github.com/user-attachments/assets/3433c90e-602a-4270-aec4-2d5733c058ba" width="200" height="420">
 
+## Working of this project.
+
+First, you have to select, what you prefer Mountain or beach. Then what you're looking for like Adventure or Relax. And then what is your budget like low or medium or high. Whatever you select it match to the data and show the respective location.  
+
 ### During Developement of this website.
 
 For the Gradient Color i use `webgradients.com`, it holds a lot of gradient colour collections.
